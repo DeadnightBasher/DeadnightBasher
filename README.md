@@ -2,12 +2,16 @@
 
 🚀 About Me
 
-🔹 Passionate about DeFi applications and simplistic financial games
+🔹 Passionate about DeFi applications and simplistic financial games 
+
 🔹 Always learning and experimenting with new ideas
+
 🔹 Looking to collaborate—I have plenty of ideas but not enough time
 
 💡 My Values
-I believe data-driven decisions shape better lives. That said, I also have a habit of ignoring limitations and doing whatever I want, whenever I want.
+
+I believe data-driven decisions shape better lives. 
+That said, I also have a habit of ignoring limitations and doing whatever I want, whenever I want.
 
 ⚡ Fun Facts
 - Worked at Binance (2019-2024)
